@@ -2,7 +2,7 @@
 
 ---
 
-### About:
+### About
 | Emoji | Status            |
 |-------|------------------|
 | 🟢    | Work              |
@@ -11,14 +11,14 @@
 
 ---
 
-## 🔑 Key Systems:
+## 🔑 Key Systems
 | Name       | Status |
 |------------|--------|
 | PlatoBoost | 🟢     |
 | WorkInk    | 🟢     |
 | NeoxKeySystem | 🟢  |
 
-## 🕹️ Hubs (Only Populars):
+## 🕹️ Hubs (Only Populars)
 | Name      | Status |
 |-----------|--------|
 | NeoxHub   | 🟢     |
