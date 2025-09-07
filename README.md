@@ -16,10 +16,4 @@
 |------------|--------|
 | PlatoBoost | 🟢     |
 | WorkInk    | 🟢     |
-
----
-
-## 🕹️ Hubs:
-| Name      | Status |
-|-----------|--------|
-| NeoxHub   | 🟢     |
+| NeoxKeySystem | 🟢  |
