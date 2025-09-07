@@ -1,13 +1,13 @@
-## Bypass
+## Bypass:
 | Emoji | Status            |
 |-------|-------------------|
 | 🟢    | Work              |
 | 🟠    | Recode / Updating |
 | 🔴    | Patched / Deleted |
 
-## Key Systems
+## Key Systems:
 - 🟢 PlatoBoost
 - 🟢 WorkInk
 
-## Hubs
+## Hubs:
 - 🟢 NeoxHub
