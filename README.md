@@ -1,4 +1,4 @@
-## Bypass:
+  ## Aternos Bypasser:
 | Emoji | Status            |
 |-------|-------------------|
 | 🟢    | Work              |
