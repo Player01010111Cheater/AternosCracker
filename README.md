@@ -1,4 +1,4 @@
-## Legend
+## Bypass
 | Emoji | Status            |
 |-------|-------------------|
 | 🟢    | Work              |
