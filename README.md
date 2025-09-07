@@ -1,12 +1,13 @@
-➖➖➖➖➖➖  
-🟢 = Work  
-🟠 = Recode / Updating  
-🔴 = Patched / Deleted  
-➖➖➖➖➖➖  
+## Legend
+| Emoji | Status            |
+|-------|-------------------|
+| 🟢    | Work              |
+| 🟠    | Recode / Updating |
+| 🔴    | Patched / Deleted |
 
 ## Key Systems
-- 🟢 PlatoBoost  
-- 🟢 WorkInk  
+- 🟢 PlatoBoost
+- 🟢 WorkInk
 
 ## Hubs
-- 🟢 NeoxHub  
+- 🟢 NeoxHub
