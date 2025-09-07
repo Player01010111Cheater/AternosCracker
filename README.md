@@ -1,13 +1,25 @@
-  ## Aternos Bypasser:
+# Aternos Bypass
+
+---
+
+### About:
 | Emoji | Status            |
-|-------|-------------------|
+|-------|------------------|
 | 🟢    | Work              |
 | 🟠    | Recode / Updating |
 | 🔴    | Patched / Deleted |
 
-## Key Systems:
-- 🟢 PlatoBoost
-- 🟢 WorkInk
+---
 
-## Hubs:
-- 🟢 NeoxHub
+## 🔑 Key Systems:
+| Name       | Status |
+|------------|--------|
+| PlatoBoost | 🟢     |
+| WorkInk    | 🟢     |
+
+---
+
+## 🕹️ Hubs:
+| Name      | Status |
+|-----------|--------|
+| NeoxHub   | 🟢     |
