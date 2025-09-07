@@ -11,7 +11,7 @@
 
 ---
 
-## 🔑 Key Systems
+## 🔑 Key Systems (Loadstring)
 | Name       | Status |
 |------------|--------|
 | PlatoBoost | 🟢     |
