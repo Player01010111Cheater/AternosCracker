@@ -4,7 +4,7 @@ end
 local items = {
   Disabler = "",
   randomUtils = "https://raw.githubusercontent.com/Player01010111Cheater/AternosBypass/refs/heads/main/utils/randomUtils.lua",
-  urls = ""
+  urls = "https://raw.githubusercontent.com/Player01010111Cheater/AternosBypass/refs/heads/main/database/urls.lua"
 }
 
 local utils = {}
