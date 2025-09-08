@@ -17,8 +17,10 @@
 | PlatoBoost | 🟢     |
 | WorkInk    | 🟢     |
 | NeoxKeySystem | 🟢  |
+| Workers.Dev | 🟢    |
 
 ## 🕹️ Hubs (Only Populars)
 | Name      | Status |
 |-----------|--------|
 | NeoxHub   | 🟢     |
+| NamelessHub | 🟢   |
