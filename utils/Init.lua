@@ -3,8 +3,7 @@ local function req(url)
 end
 local items = {
   Disabler = "",
-  randomUtils = "https://raw.githubusercontent.com/Player01010111Cheater/AternosBypass/refs/heads/main/utils/randomUtils.lua",
-  urls = "https://raw.githubusercontent.com/Player01010111Cheater/AternosBypass/refs/heads/main/database/urls.lua"
+  randomUtils = "https://raw.githubusercontent.com/Player01010111Cheater/AternosBypass/refs/heads/main/utils/randomUtils.lua"
 }
 
 local utils = {}
