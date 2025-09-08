@@ -1,10 +1,12 @@
-local urls = {
-    ["workers.dev"] = {
-        Method = "POST",
-        RequestMethod = "request",
-        Headers = {
-            ["Content-Type"] = "application/json"
+return function()
+    local urls = {
+        ["workers.dev"] = {
+            Method = "POST",
+            RequestMethod = "request",
+            Headers = {
+                ["Content-Type"] = "application/json"
+            }
         }
     }
-}
-return urls
+    return urls
+end
